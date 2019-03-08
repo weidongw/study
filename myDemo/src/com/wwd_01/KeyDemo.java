@@ -1,18 +1,8 @@
 package com.wwd_01;
 
 /*
- * 	���ݸ�������alt+/
- * 		A:main����
- * 			main��Ȼ��alt+/���س�
- * 		B:������
- * 			syso��Ȼ��alt+/���س�
- * 	��ݼ���
- * 		A:ע��
- * 			����
- * 			����
- * 		B:��ʽ��
- * 			ctrl+shift+f
- * 			�Ҽ� -- Source -- Format
+ * 		ctrl+shift+f
+ * 		右键-- Source -- Format
  */
 
 public class KeyDemo {
