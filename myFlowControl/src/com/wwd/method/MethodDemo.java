@@ -25,6 +25,19 @@ package com.wwd.method;
  * 写一个方法要有两个明确
  *      A:返回值类型
  *      B:参数列表
+ *
+ * 方法重载：在同一个类中，出现了方法名相同的情况。
+ * 方法重载的特点：
+ *      方法名相同，参数列表不同。
+ *      参数列表不同：
+ *          参数个数不同；
+ *          参数对应的数据类型不同。
+ *
+ * 注意：
+ *      在调用方法的时候，java虚拟机会通过参数列表的不同来区分同名的方法。
+ *
+ *
+ *      GirlFriend myGirlFriend = new GirlFriend("麗虹");
  */
 public class MethodDemo {
 
@@ -51,6 +64,9 @@ public class MethodDemo {
         return a + b;
     }
 
+    /*
+     * 打印HelloWorld
+     */
     public static void printHelloWorld() {
 
         for (int i = 0; i < 10; i++) {

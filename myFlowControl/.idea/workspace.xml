@@ -2,22 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37a718e5-2b1c-4569-a8f5-173915d43258" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myFlowControl.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wwd/array/ArrayArrayDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wwd/array/ArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wwd/method/MethodDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wwd/method/MethodTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myDemo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/wwd_01/ForTest4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/wwd_01/ForTest4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/wwd_01/IfDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/wwd_01/IfDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/wwd_01/OrderDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/wwd_01/OrderDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/wwd_01/SwitchDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/wwd_01/SwitchDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/www/array/ArrayDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/www/array/ArrayDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wwd/array/ArrayDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wwd/debug/DebugDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wwd/method/ArgsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/wwd/method/MethodDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/wwd/method/MethodDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/wwd/method/MethodTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/wwd/method/MethodTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wwd/method/MethodDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wwd/method/MethodDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wwd/method/MethodTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wwd/method/MethodTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,11 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/wwd/method/MethodTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="680">
+              <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -40,8 +32,30 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/wwd/method/MethodDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="697">
-              <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+            <state relative-caret-position="272">
+              <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+              <folding>
+                <element signature="e#1207#1208#0" expanded="true" />
+                <element signature="e#1235#1236#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/wwd/method/ArgsDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="41" lean-forward="true" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/wwd/debug/DebugDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -65,8 +79,11 @@
         <option value="$PROJECT_DIR$/src/com/www/array/ArrayTest.java" />
         <option value="$PROJECT_DIR$/src/com/www/array/ArrayArrayDemo.java" />
         <option value="$PROJECT_DIR$/src/com/wwd/array/ArrayArrayDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/wwd/method/MethodDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/wwd/method/MethodDemo02.java" />
         <option value="$PROJECT_DIR$/src/com/wwd/method/MethodTest.java" />
+        <option value="$PROJECT_DIR$/src/com/wwd/method/ArgsDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/wwd/method/MethodDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/wwd/debug/DebugDemo.java" />
       </list>
     </option>
   </component>
@@ -84,7 +101,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -116,7 +132,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="wwd" type="462c0819:PsiDirectoryNode" />
-              <item name="method" type="462c0819:PsiDirectoryNode" />
+              <item name="debug" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="myFlowControl" type="b2602c69:ProjectViewProjectNode" />
@@ -127,12 +143,13 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552575446057" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553010548596" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -153,7 +170,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ArgsDemo">
+    <configuration name="ArgsDemo" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.wwd.method.ArgsDemo" />
+      <module name="myFlowControl" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MethodTest" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.wwd.method.MethodTest" />
       <module name="myFlowControl" />
@@ -161,6 +185,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.ArgsDemo" />
+      <item itemvalue="Application.MethodTest" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -175,12 +203,15 @@
       <workItem from="1552288445403" duration="3189000" />
       <workItem from="1552462818776" duration="6419000" />
       <workItem from="1552530134757" duration="7823000" />
-      <workItem from="1552639109774" duration="1286000" />
+      <workItem from="1552639109774" duration="1462000" />
+      <workItem from="1552967333179" duration="2469000" />
+      <workItem from="1552994281271" duration="3866000" />
+      <workItem from="1553006325054" duration="2551000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18717000" />
+    <option name="totallyTimeSpent" value="27779000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -192,7 +223,7 @@
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info id="Learn" order="5" />
-      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.1748401" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.17324094" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
@@ -245,15 +276,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/wwd/method/MethodTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="680">
+          <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/wwd/method/MethodDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+        <state relative-caret-position="272">
+          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+          <folding>
+            <element signature="e#1207#1208#0" expanded="true" />
+            <element signature="e#1235#1236#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wwd/debug/DebugDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wwd/method/ArgsDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="41" lean-forward="true" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
         </state>
       </provider>
     </entry>
