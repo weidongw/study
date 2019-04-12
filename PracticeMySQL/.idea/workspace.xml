@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3b63e12-f3ff-4be7-9a43-d2f57ca206f2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../JavaStudy/src/com/wwd/base/ForTest4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStudy/src/com/wwd/base/IfDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStudy/src/com/wwd/base/OrderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStudy/src/com/wwd/base/SwitchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStudy/src/com/wwd/base/wwd_01/KeyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStudy/src/com/wwd/base/wwd_01/OperatorDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStudy/src/com/wwd/base/wwd_01/OperatorDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStudy/src/com/wwd/base/wwd_02/OperatorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStudy/src/com/wwd/base/wwd_03/OperatorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStudy/src/com/wwd/base/wwd_04/OperatorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStudy/src/com/wwd/base/wwd_04/OperatorDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStudy/src/com/wwd/base/wwd_05/OperatorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStudy/src/com/wwd/base/wwd_05/OperatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStudy/src/com/wwd/base/wwd_05/OperatorTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStudy/src/com/wwd/random/RandomDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStudy/src/com/wwd/random/RandomTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStudy/src/com/wwd/scanner/ScannerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStudy/src/com/wwd/scanner/ScannerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myRandom/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myRandom/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myRandom/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myRandom/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myRandom/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myRandom/myRandom.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myScanner/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myScanner/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myScanner/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myScanner/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myScanner/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myScanner/myScanner.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../myDemo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myFlowControl/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myFlowControl/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myFlowControl/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myFlowControl/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myFlowControl/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myFlowControl/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myFlowControl/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myFlowControl/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myFlowControl/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myFlowControl/JavaStudy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myFlowControl/bin/META-INF/myFlowControl.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myFlowControl/bin/com/wwd/array/ArrayArrayDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myFlowControl/bin/com/wwd/array/ArrayDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myFlowControl/bin/com/wwd/array/ArrayTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myFlowControl/bin/com/wwd/debug/DebugDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myFlowControl/bin/com/wwd/method/ArgsDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myFlowControl/bin/com/wwd/method/MethodDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myFlowControl/bin/com/wwd/method/MethodTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myFlowControl/bin/com/wwd_01/ForTest4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myFlowControl/bin/com/wwd_01/IfDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myFlowControl/bin/com/wwd_01/OrderDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myFlowControl/bin/com/wwd_01/SwitchDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myFlowControl/src/com/wwd/ForTest4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myFlowControl/src/com/wwd/IfDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myFlowControl/src/com/wwd/OrderDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myFlowControl/src/com/wwd/SwitchDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myFlowControl/src/com/wwd/array/ArrayArrayDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myFlowControl/src/com/wwd/array/ArrayDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myFlowControl/src/com/wwd/array/ArrayTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myFlowControl/src/com/wwd/debug/DebugDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myFlowControl/src/com/wwd/method/ArgsDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myFlowControl/src/com/wwd/method/MethodDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myFlowControl/src/com/wwd/method/MethodTest.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3b63e12-f3ff-4be7-9a43-d2f57ca206f2" name="Default Changelist" comment="" />
+      <created>1554885481952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554885481952</updated>
+      <workItem from="1554885483117" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="24000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Learn" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
